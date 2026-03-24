@@ -17,7 +17,7 @@ Psyche, the one that made sure Cupid would not end my life, forced me to look fo
 - Ethical Hacking
 - **Japanese** and **Russian**
 - _Reverse Engineering_
-- Developing a certain idea of software with [limrpoty]([https://github.com/limrpoty](https://github.com/limrpoty))
+- Developing a certain idea of software with [limrpoty]([https://github.com/limrpoty])
 
 ---
 
