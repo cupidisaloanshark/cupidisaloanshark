@@ -40,6 +40,6 @@ Psyche, the one that made sure Cupid would not end my life, forced me to look fo
 ---
 
 <p align="center">
-  <p>Maybe someday this README will be perfect (or not).</p>
+  <p>Eros said this github was good but Cupid thinks it needs a little more. May _Zest_ protect me.</p>
 </p>
 
