@@ -12,7 +12,7 @@ Once upon a time I played poker with a strange person. _It_, how the person aske
 
 Psyche, the one that made sure Cupid would not end my life, forced me to look for new things to do. She thinks that learning is the ultimate way of living.
 
-Some of the things are:
+###### Some of the things are:
 - **Go** programming language
 - Ethical Hacking
 - **Japanese** and **Russian**
