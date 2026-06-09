@@ -86,7 +86,7 @@ SQL         [██████░░░░]  65 / 100
 2026 [███████░░░░░░░░] 3600 / 5000 XP  ▮
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&title_color=c9a227&icon_color=c9a227&text_color=e6edf3&bg_color=161b22)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cupidisaloanshark&show_icons=true&theme=github_dark&hide_border=true&title_color=c9a227&icon_color=c9a227&text_color=e6edf3&bg_color=161b22)
 
 </td>
 </tr>
@@ -98,7 +98,7 @@ SQL         [██████░░░░]  65 / 100
 
 **▸ CONQUISTAS DESBLOQUEADAS**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=161B22&ring=C9A227&fire=C9A227&currStreakLabel=C9A227)
+![GitHub Streak](https://streak-stats.demolab.com?user=cupidisaloanshark&theme=dark&hide_border=true&background=161B22&ring=C9A227&fire=C9A227&currStreakLabel=C9A227)
 
 </div>
 
@@ -108,7 +108,7 @@ SQL         [██████░░░░]  65 / 100
 
 **▸ TOP LINGUAGENS**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&title_color=c9a227&text_color=e6edf3&bg_color=161b22)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cupidisaloanshark&layout=compact&theme=github_dark&hide_border=true&title_color=c9a227&text_color=e6edf3&bg_color=161b22)
 
 </div>
 
@@ -121,7 +121,7 @@ SQL         [██████░░░░]  65 / 100
 <!-- Habilite a GitHub Action para gerar essa snake dinamicamente! -->
 <!-- Veja: https://github.com/Platane/snk -->
 
-![Snake Animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://github.com/cupidisaloanshark/cupidisaloanshark/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -138,7 +138,7 @@ SQL         [██████░░░░]  65 / 100
 [![Portfolio](https://img.shields.io/badge/Portfolio-C9A227?style=for-the-badge&logo=firefox&logoColor=white)](https://SEU_SITE.com)
 
 ```
-★ OPEN TO WORK ★   Visitantes: ![Visitor Count](https://profile-counter.glitch.me/SEU_USUARIO/count.svg)
+★ OPEN TO WORK ★   Visitantes: ![Visitor Count](https://profile-counter.glitch.me/cupidisaloanshark/count.svg)
 ```
 
 </div>
